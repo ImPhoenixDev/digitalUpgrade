@@ -13,7 +13,7 @@ const Header = ({ siteTitle }) => (
       <FontAwesomeIcon icon={faMousePointer} />
       <h1 className="font-bold mx-4"> Digital Upgrade</h1>
     </div>
-    <div className="Pricing bg-green-500 text-sm text-white p-1 px-4 rounded-full">
+    <div className="Pricing bg-green-500 text-xs tracking-wider text-white p-1 px-4 rounded-full">
       Pricing
     </div>
   </header>
